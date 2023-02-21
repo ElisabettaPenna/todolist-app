@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&family=Poppins:wght@400;500&display=swap');
+
+
+.App {
+  text-align: center;
+ font-family:Poppins,sans serif;
+ display: flex;
+ flex-direction:column;
+ align-items:center;
+ justify-content: space-between;
+}
+
+
+
+
